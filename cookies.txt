@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+woodmart.xtemos.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+woodmart.xtemos.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_06fc3a8c9a4901f0dadb43c19c40a564	t_86cc8bb671d539637747d2e17977a8%7C%7C1723050014%7C%7C1723046414%7C%7Cc391e65ed5757f28aa653e6cd20d6db9
+woodmart.xtemos.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	527d762c3ffe5787548ca6431ffe8256
+

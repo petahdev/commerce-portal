@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 05 Aug 2024 19:59:44 at https://woodmart.xtemos.com/demo-retail/demo/retail/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://woodmart.xtemos.com/demo-retail/demo/retail/ -O1 "C:\My Web Sites\HTTRACK CLONE" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+20:04:29	Warning: 	Retry after error 500 (Internal Server Error) at link https://woodmart.xtemos.com/wp-content/uploads/2021/images/spinner.gif (from https://woodmart.xtemos.com/wp-content/uploads/2021/04/js_composer-1617261777.css?ver=7.5.1)
+20:04:29	Warning: 	Retry after error 500 (Internal Server Error) at link https://woodmart.xtemos.com/wp-content/uploads/2021/vc/tick.png (from https://woodmart.xtemos.com/wp-content/uploads/2021/04/js_composer-1617261777.css?ver=7.5.1)
+20:04:29	Warning: 	Retry after error 500 (Internal Server Error) at link https://woodmart.xtemos.com/wp-content/uploads/2021/vc/remove.png (from https://woodmart.xtemos.com/wp-content/uploads/2021/04/js_composer-1617261777.css?ver=7.5.1)
+20:04:29	Warning: 	Retry after error 500 () at link https://woodmart.xtemos.com/wp-content/uploads/2021/images/spinner.gif (from https://woodmart.xtemos.com/wp-content/uploads/2021/04/js_composer-1617261777.css?ver=7.5.1)
+20:04:29	Warning: 	Retry after error 500 (Internal Server Error) at link https://woodmart.xtemos.com/wp-content/uploads/2021/vc/tick.png (from https://woodmart.xtemos.com/wp-content/uploads/2021/04/js_composer-1617261777.css?ver=7.5.1)
+20:04:30	Warning: 	Retry after error 500 (Internal Server Error) at link https://woodmart.xtemos.com/wp-content/uploads/2021/vc/remove.png (from https://woodmart.xtemos.com/wp-content/uploads/2021/04/js_composer-1617261777.css?ver=7.5.1)
+20:04:30	Error: 	"" (500) after 2 retries at link https://woodmart.xtemos.com/wp-content/uploads/2021/images/spinner.gif (from https://woodmart.xtemos.com/wp-content/uploads/2021/04/js_composer-1617261777.css?ver=7.5.1)
+20:04:30	Error: 	"Internal Server Error" (500) after 2 retries at link https://woodmart.xtemos.com/wp-content/uploads/2021/vc/tick.png (from https://woodmart.xtemos.com/wp-content/uploads/2021/04/js_composer-1617261777.css?ver=7.5.1)
+20:04:31	Error: 	"Internal Server Error" (500) after 2 retries at link https://woodmart.xtemos.com/wp-content/uploads/2021/vc/remove.png (from https://woodmart.xtemos.com/wp-content/uploads/2021/04/js_composer-1617261777.css?ver=7.5.1)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 47 seconds : 401 links scanned, 391 files written (19809238 bytes overall) [6405647 bytes received at 22319 bytes/sec], 16098827 bytes transferred using HTTP compression in 198 files, ratio 14%, 14.2 requests per connection
+(3 errors, 6 warnings, 0 messages)
